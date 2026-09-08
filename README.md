@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Build a complete, production-quality full-stack web application called "HealthStory" — a centralized, verified longitudinal patient health-record platform.
 
 IMPORTANT:
@@ -1250,3 +1251,6 @@ And the core product statement is:
 Build the application with polished UI, responsive layouts, realistic interactions, proper role-based permissions, smooth animations, clean component architecture, and a functional frontend/backend structure.
 
 Prioritize the Health Timeline, Critical Information, Patient Health ID, Administrator Record Management, and strict Patient Read-Only experience above secondary features.
+=======
+# HealthStory
+>>>>>>> 8bd4568eeb5a438bde8c5957346ef1c326476ee0

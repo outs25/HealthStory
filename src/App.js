@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StorageService, STAFF_ACCOUNTS, HOSPITALS } from './data/mockDatabase';
+import { StorageService, HOSPITALS } from './data/mockDatabase';
 import {
   fetchPatientsFromSupabase,
   fetchRecordsFromSupabase,
